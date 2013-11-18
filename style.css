@@ -1,0 +1,59 @@
+// New CSS
+body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: black}
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: black}
+hr { color: black; height: 1px; border:0; background-color: black}
+
+img {margin-right: 4 ;margin-left: 4}
+img.grafica {margin-right: 0 ;margin-left: 0}
+
+input { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; border-style: solid; border-color: black; border-width: 1px}
+//input.radio { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; border-style: none; background: none; color: none}
+//input.radio { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; border-style: none}
+input.radio { }
+
+//textarea { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; border-style: solid; border-color: black; border-width: 1px}
+//select  { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; border-style: solid; border-color: black; border-width: 1px}
+
+li { color: black; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; margin-right: 4 ;margin-left: 4}
+
+p {color: black; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+p.center {color: black; text-align: center; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+form {color: black; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+
+h1 {color: black; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold}
+h2 {color: black; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 17px; font-weight: bold}
+h3 {color: black; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold}
+
+table.header {border: 0; border-spacing: 0; margin: 0}
+td.header {border: 0; color: white; background: black}
+td.header_right {border: 0; color: white; background: black; text-align: right}
+
+table {border: 0; border-spacing: 1; margin: 2}
+th {border: 0 ; color: white; background: #54688c; text-align: center; font-size: 10px}
+td {border: 0 ; color: black; background: #e6eaf6; text-align: left}
+
+
+A:link {color: blue; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+A:visited {color: blue; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+A:Hover {color: blue; text-decoration: underline; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+
+
+A.blanco:link {color: white; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+A.blanco:visited {color: white; text-decoration: none; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+A.blanco:Hover {color: white; text-decoration: underline; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+
+table.tip  {border: 0; border-spacing: 0; padding: 0; margin: 2}
+td.tip1 {background: #ccccc0}
+td.tip2 {background: #fffff0}
+
+table.tip_info  {border: 0; border-spacing: 0; padding: 0; margin: 2}
+td.tip_info1 {background: #7590ae}
+td.tip_info2 {background: #9db8d2}
+
+table.tip_hand  {border: 0; border-spacing: 0; padding: 0; margin: 2}
+td.tip_hand1 {background: #990000}
+td.tip_hand2 {background: #c1665a}
+
+table.menu  {border: 0; border-spacing: 0; padding: 0; margin: 0}
+td.menu_right {text-align: right}
+
